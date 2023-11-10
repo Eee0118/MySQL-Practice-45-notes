@@ -1,8 +1,2 @@
-- 文档概述
-  - [文档介绍和快速链接](README.md)
 - 第一讲
   - [一条SQL查询语句是如何执行的](02/01.md)
-- 其他小工具
-  - [JWT](jwt/README.md)
-- [Awesome docsify](awesome.md)
-- [Changelog](changelog.md)
