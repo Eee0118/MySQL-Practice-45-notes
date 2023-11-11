@@ -18,7 +18,7 @@
 原书项目地址：https://github.com/PacktPublishing/Building-Python-Microservices-with-FastAPI
 
 ## 在线阅读地址
-在线阅读地址：https://relph1119.github.io/fastapi-learning-notes
+在线阅读地址：https://eee0118.github.io/MySQL-Practice-45-notes
 
 ## 项目结构
 <pre>
